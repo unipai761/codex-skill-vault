@@ -4,6 +4,6 @@
 
 ## 当前状态
 
-- 本机安装与插件缓存中共发现 151 个 SKILL.md。
-- 来源、上游版本和许可信息仍待核验。
-- 维护流程见 docs/maintenance.md，清单见 manifest/inventory.json。
+- 本机 `~/.codex/skills` 与已发现的插件缓存目录共有 151 个 `SKILL.md`。
+- 各项来源、许可和上游版本待进一步核验。
+- 详见 `manifest/inventory.json` 和 `docs/maintenance.md`。
